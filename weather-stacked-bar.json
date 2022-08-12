@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "data": {"url": "data/weather.csv"},
+    "data": {"url": "https://raw.githubusercontent.com/mohan-chinnappan-n/viz/master/data/weather.csv"},
     "mark": { "type": "bar", "tooltip": true},
     "encoding": {
       "x": {
